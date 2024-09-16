@@ -10,7 +10,7 @@ body{
 }
 
 .container{
-    background-image: radial-gradient(circle, #0077ff 0%, #00ffaa 100%);
+    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -19,12 +19,13 @@ body{
 
 .clock{
     align-items: center;
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(133, 132, 132, 0.644);
     border: 1px solid #000;
-    border-radius: 10px;
-    color: #fff;
+    border-radius: 20%;
+    color: #000000;
     font-size: 60px;
     justify-content: center;
+    display: flex;
     height: 100px;
     width: 250px;
 }
