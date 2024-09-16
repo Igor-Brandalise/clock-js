@@ -10,7 +10,10 @@ body{
 }
 
 .container{
-    
+    background-image: url(182428240217.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: auto;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -19,7 +22,7 @@ body{
 
 .clock{
     align-items: center;
-    background-color: rgba(133, 132, 132, 0.644);
+    background-color: rgba(202, 202, 202, 0.753);
     border: 1px solid #000;
     border-radius: 20%;
     color: #000000;
