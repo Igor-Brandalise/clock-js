@@ -1,5 +1,5 @@
 function getHours (){
-    const clock = document.getElementsByClassName('clock')
+    const clock = document.getElementsByClassName('clock')[0]
 
     const date = new Date()
 
