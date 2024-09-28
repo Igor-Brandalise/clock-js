@@ -23,7 +23,7 @@ body{
 .clock{
     align-items: center;
     background-color: rgba(202, 202, 202, 0.753);
-    border: 1px solid #000;
+    border: 1px solid black;
     border-radius: 20%;
     color: #000000;
     font-size: 60px;
